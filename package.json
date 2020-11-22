@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/abicorios/use_d3/issues"
   },
-  "homepage": "https://github.com/abicorios/use_d3#readme"
+  "homepage": "https://github.com/abicorios/use_d3#readme",
+  "dependencies": {
+    "d3": "^6.2.0"
+  }
 }
